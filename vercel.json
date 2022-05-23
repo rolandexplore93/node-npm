@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "name": "node-npm tester",
     "builds": [
         {
             "src": "./server.js",
